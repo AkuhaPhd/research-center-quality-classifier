@@ -683,7 +683,7 @@ wheels = [
 ]
 
 [[package]]
-name = "research-center-quality-classifier"
+name = "research-center-assignment"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
