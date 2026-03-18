@@ -19,8 +19,6 @@ logger.info("Sucessfully loaded research center classifier pipeline")
 
 class ResearchCenterMetrics(BaseModel):
     internalFacilitiesCount: int
-    hospitals_10km: int
-    pharmacies_10km: int
     facilityDiversity_10km: float
     facilityDensity_10km: float
 
